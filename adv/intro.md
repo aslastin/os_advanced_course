@@ -69,7 +69,7 @@
 
 ## Архитектура
 
-![1.1 architecture](https://raw.githubusercontent.com/aslastin/os_course/master/images/1.1%20architecture.png?token=AOQTE37P2XYTISY3M6KOMQC7NUCEU)
+![1.1 architecture](https://github.com/aslastin/os_course/blob/master/images/1.1%20architecture.png)
 
 ОС могут быть устроены по-разному. В современной ОС существует 3 логических уровня: 
 
