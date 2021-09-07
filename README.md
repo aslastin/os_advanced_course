@@ -1,4 +1,4 @@
-# os_course
+# os_advanced_course
 
 ## Системный курс
 
